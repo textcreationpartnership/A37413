@@ -1,0 +1,597 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Defense of Dr. Oliphant's short discourse of the usefulness of vomiting in fevers in answer to the melius inquiredum &amp;c. / in a letter to a friend.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37413</idno>
+            <idno type="STC">Wing D813</idno>
+            <idno type="STC">ESTC R37721</idno>
+            <idno type="EEBO-CITATION">17007721</idno>
+            <idno type="OCLC">ocm 17007721</idno>
+            <idno type="VID">105737</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37413)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105737)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1613:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Defense of Dr. Oliphant's short discourse of the usefulness of vomiting in fevers in answer to the melius inquiredum &amp;c. / in a letter to a friend.</title>
+               </titleStmt>
+               <extent>17 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.N. for Thomas Carruthers, and sold at his shop ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>M.DC.XC.IX [1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound with loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oliphant, Charles, d. 1719. --  Short discourse to prove the usefulness of vomiting in fevers.</term>
+               <term>Fever --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105737:1" rendition="simple:additions"/>
+            <p>A DEFENCE OF D<hi rend="sup">r.</hi> Oliphant's <hi>SHORT DISCO<g ref="char:V">Ʋ</g>RSE</hi> Of the USEFULNESS of VOMITING <hi>in</hi> FEVERS, In ANSWER to The <hi>Melius inquirendum,</hi> &amp;c.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n a LETTER to a Friend.</p>
+            <q>
+               <p>Maledicus a Malefico non diſtat, niſi occaſione.</p> 
+               <bibl>Quintil.</bibl>
+            </q>
+            <p>EDINBURGH, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rinted by <hi>J. W.</hi> for <hi>Thomas Carruthers,</hi> and ſold at his Shop in the Parliament <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>loſs, <hi>Anno Dom.</hi> M.DC.XC.IX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:105737:2"/>
+            <pb n="3" facs="tcp:105737:2"/>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>YOur Surpriſe was but equal to my own, when you ſaw the Anſwer to Dr. <hi>O's Diſcourſe about Vomiting in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evers;</hi> the paſſing over his Reaſoning with ſeeming Negligence, and the Wreſting <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Suppreſſing his Quotations, were but <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch Replyes as the Dr. expected, ſeing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here could be no other: But the Repreſen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion of the Matter of Fact is ſo groſly falſe, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd doth ſo conſiſt with my own Know<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dge, that I thought my ſelf, in Juſtice and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riendſhip, obliged to make you and the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orld acquainted with it. And here I ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot inſiſt on the Dr's own Aſſertion, which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you and me who know him, will go fur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er than that of the Anſwerer. But a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>entleman of Undoubted Credit, who was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y when the Dr. was firſt called, told me, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat when he propoſed Vomiting to the Pa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent, he ſo far diſowned the getting of ſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eral Vomits before, that he told the Dr. he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as ſure it was the only thing would do him <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood, and that he was ſorry he had not cal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed him ſooner. And for the Anſwerer's Ap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ealing to the Apothecary's File, <hi>by which,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſays, <hi>it is manifeſt he had been Vomited ſe<g ref="char:EOLhyphen"/>eral times,</hi> tho I had heard Mr <hi>Montelth,</hi>
+               <pb n="4" facs="tcp:105737:3"/>whom the Patient employed as ſuch, open<g ref="char:EOLhyphen"/>ly affirm the contrary, yet I could not ima<g ref="char:EOLhyphen"/>gine any Man would be ſo Bare-fac'd, with<g ref="char:EOLhyphen"/>out ſome Ground, ſo that to be fully ſatis<g ref="char:EOLhyphen"/>fy'd, I went with the Dr. to the Shop, and not only ſaw the Ordinary's Bills, but got a Copy of them written by the Apothecary's own Servant, and Atteſted by him and his Maſter who was preſent, to be the only had been ordered before the Dr. was called<g ref="char:punc">▪</g> They are as follows.</p>
+            <p>
+               <hi>July</hi> 12. R. <hi>Decoct. Com. pro Clyſt. Lib.</hi> 1. <hi>In Colat. diſſolv. Elect. lenit. unc.</hi> 1. <hi>ſemis. Mel. Merc. unc.</hi> 1. <hi>Sal. Prunel. dr.</hi> 1. <hi>F. Clyſter.</hi>
+            </p>
+            <p>
+               <hi>R. Amygd. d. exc. no. x. ſem.</hi> 4. <hi>frig. maj. a dr.</hi> 1. <hi>pap. alb. dr.</hi> 11. <hi>cum ſ. q. Aq. Font. F. Emulſio, ad lib.</hi> 1. <hi>In Colat. diſ<g ref="char:EOLhyphen"/>ſolv. ſach. cand. Aq. Cinam. a. unc. ſemis.</hi>
+            </p>
+            <p>
+               <hi>July</hi> 13. R. <hi>Decoct. amar. cum dupl. ſenna. unc.</hi> 4. <hi>in Colat. diſſolv. ſal. abſinth. dr. ſemis. F. potio.</hi> And each of theſe was once repeated.</p>
+            <p>And except the Anſwerer call Vomits an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Emollient Clyſter, an Emulſion and the bit<g ref="char:EOLhyphen"/>ter Decoction with two Drachms of Senna, which is more proper for allaying of Vomi<g ref="char:EOLhyphen"/>ting than provoking it, there was not ſo much as the Veſtige of any other.</p>
+            <p>The Dr. did not think theſe worth mentio<g ref="char:EOLhyphen"/>ning in the Account he gave, becauſe they were no way proportioned to the Greatneſs
+<pb n="5" facs="tcp:105737:3"/>of the Diſeaſe, and what he had mentioned were the Remedies moſtly inſiſted upon, and he ſaid very juſtly, a Man might as reaſo<g ref="char:EOLhyphen"/>nably expect to take a Fort with no better Artillery than Pen-guns, as to think to make ſuch Evacuations as were evidently neceſſa<g ref="char:EOLhyphen"/>ry by ſuch Ineffectual Medicines. Theſe Frightful Symptoms as want of Pulſe, Spaſms, <hi>&amp;c.</hi> which we are told in the Anſwer, fol<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owed the taking the Vomit ordered by the Dr, are as falſe as that the Anſwerer had given one himſelf. And the Dr. was ſo far from being in any great Apprehenſion of Danger, that it was not his own Motion to call any other Phyſician, it was done to comply with the Deſire of the Gentleman's own Lady, who had too near a Concern to be a proper Judge in the Affair, and who, without any Wonder, might be allarum'd, when the Life of ſo kind and deſerving a Hus<g ref="char:EOLhyphen"/>band ſeem'd any way in Danger; When that other Phyſician and the Dr. came toge<g ref="char:EOLhyphen"/>ther, they found him in ſo Soft and Sound a Sleep, that they ſtayed a conſiderable time, before they would diſturb him, ſo far was he from that low Paſs the Anſwerer brings him to. And to vindicat what theſe two Gentlemen thought proper to be done after<g ref="char:EOLhyphen"/>wards, againſt any Reflections made by the Anſwerer, I think it is at leaſt ſufficient to
+<pb n="6" facs="tcp:105737:4"/>oppone their joynt Opinion againſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſingle one. As for the Dr's leaving the P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tient before he ſaw the Effect of the Vom it is of the ſame Piece with the reſt, ſei<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> he was actually by him moſt part of all th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Day. That this is the true Matter of Fa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> any Man who will give himſelf the Troub<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to enquire may be ſatisfied, either from t<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Apothecary, or the Gentleman himſelf, theſe who were Aſſiſtants. But it is no wo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>der the Anſwerer had nothing but falſe C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lumnies to ſtuff his Paper with, or you kno<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Stultorum Theſaurus Maledicentia.</hi>
+            </p>
+            <p>Amongſt the other Slanders he aſperſe the Dr. with, there can be none more M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>licious than that of calling him a <hi>Banterer Scripture,</hi> and ſaying it was a <hi>Syrophenici<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Story;</hi> which you and my ſelf, and othe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who ever diſcourſed him on that head, kno<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be ſo falſe, that we have all the Reaſon the World to think the Dr. does more firml<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and upon more ſolid Grounds believe tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sacred Truths contained in Scripture th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> any of his Accuſers do: But it is eaſie to d<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cover the baſe Motives of ſome People <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſperſing ſuch Calumnies not only of him but of others who, I believe, are equally In<g ref="char:EOLunhyphen"/>nocent. But I ſhall wave all this, and ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> haſt to the Anſwers given to the Dr's Re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſons and Authorities.</p>
+            <pb n="7" facs="tcp:105737:4"/>
+            <p>And Firſt, He paſſeth over the Dr's own <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſonings, by tellling he grants all; and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat the Dr. Diſcourſeth concerning Blood<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng before Evacuations; he ſays concerns <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vacuations in general, and ſo leaves them <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s he found them. I have nothing to reply <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o that, but refer you to them again; only <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cannot underſtand what he means by Eva<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uations in general, ſeeing the Dr. is ſpeak<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng plainly of Evacuations in continued Fe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers, when the Stomach and <hi>Primae viae</hi> are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vercharged with Choler and other Hu<g ref="char:EOLhyphen"/>mours. I come next to the Authorities.</p>
+            <p>The Dr. had made an evident Conſe<g ref="char:EOLhyphen"/>quence from two Aphoriſms of <hi>Hippocrates,</hi> which may be reduced to a plain Sylogiſm, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hus, <hi>When Humours are to be Evacuated, let <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t be done the way that Nature affects moſt,</hi> (<hi>i. e.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f there be an Inclination to Vomiting by Vo<g ref="char:EOLhyphen"/>miting) <hi>but in very acute Diſeaſes, let the Hu<g ref="char:EOLhyphen"/>mors be Evacuated that ſame day, if the Matter is turgid</hi> (which is any day ſo long as the Matter is turgid.) <hi>Ergo.</hi> Now, To overturn this, the Anſwerer brings another Apho<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſm, which proves that <hi>Hippocrates</hi> was a<g ref="char:EOLhyphen"/>gainſt Vomiting in Fevers, which the Dr. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad obviated by acquainting us that <hi>Hippo<g ref="char:EOLhyphen"/>crates</hi> knew no Effectual Vomit could be ſafely given in any caſe. This is anſwered by calling it Stuff, though it be the very
+<pb n="8" facs="tcp:105737:5"/>ſame thing <hi>Fernel</hi> ſays. The Dr. had alſo ta<g ref="char:EOLunhyphen"/>ken notice, that the Fevers in thoſe Climat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Times were far from what we now have which has made ſeveral of theſe Aphoriſm in acute Diſeaſes, which either were not un<g ref="char:EOLunhyphen"/>derſtood, or not to be followed in Fevers which did not agree with theſe <hi>Hippocrate<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> had obſerved in any thing but the Name do ſo much harm in the Cure of Fevers. cannot paſs over what Dr. <hi>Tournefort</hi> ſays o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this head in his Learned Preface to the Hi<g ref="char:EOLunhyphen"/>ſtory of <hi>Plants about Paris. Deux ou trois lig<g ref="char:EOLunhyphen"/>nes,</hi> ſays he, <hi>mal expliquées d' Hippocrate out coûté la vie a des millions de perſonnes Depuis le renouvellement des lettres les Mede<g ref="char:EOLhyphen"/>cins qui ont eu le plus d'erudition &amp; qui ſe ſon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> piquez de bien entendre la Doctrine de ce gran<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> homme, ſe ſout retranchez a ſes maximes le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moins aſſurées, &amp; ont tout a fait negligé la ma<g ref="char:EOLhyphen"/>tiere medicinale dont il ſe ſervoit.</hi> Two or three Lines of <hi>Hipprocrates</hi> ill Explained, have coſt a Million of People their Lives. Since the reſtoring of Letters, Phyſicians who have had the moſt Learning, and who have valued themſelves on the right Un<g ref="char:EOLhyphen"/>derſtanding, the Doctrine of that great Man<g ref="char:punc">▪</g> have laid aſide ſuch of his Maxims as were the leaſt certain, and have quite neglected thoſe Medicins he uſed, by reaſon as he adds afterwards, they were too violent.</p>
+            <pb n="9" facs="tcp:105737:5"/>
+            <p>Next, he comes to <hi>Celſus,</hi> and tells us <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat the Authority the Dr. brings from him <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, concerning intermitting Fevers; to prove <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he contrary of which, I ſhall only inſert the Quotation again with the Anſwerer's Additi<g ref="char:EOLhyphen"/>on. <hi>Vomiting,</hi> ſays <hi>Celſus, as in perfect Health it is often neceſſary for ſuch as are Cho<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erick, ſo it is alſo in theſe Diſeaſes which are <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccaſioned by Choler,</hi> what the Anſwerer <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dds from the Author, is, <hi>Ergo omnibus qui <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nte febres horrore &amp; tremore vexatur.</hi> &amp;c. <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eceſſarius eſt,</hi> in Engliſh, <hi>therefore it is ne<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſary to all who are troubled with Chilneſs and ſhivering before Fevers,</hi> whereby it is evi<g ref="char:EOLhyphen"/>dent he is ſpeaking of putrid continued Fe<g ref="char:EOLhyphen"/>vers, which do moſt commonly Invade that way, and which by no means can be ſaid of Agues which have that trembling and Chil<g ref="char:EOLhyphen"/>neſs through their whole Courſe. However, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat you may not be in a doubt about <hi>Celſus</hi>'s Opinion, the Dr. quotes <hi>Cap.</hi> 7. <hi>lib.</hi> 3. <hi>De Cu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atione febris ardentis,</hi> of the cure of a burn<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng Fever, where he orders poſitively Vo<g ref="char:EOLhyphen"/>miting in the height, and cautions it not to be done before the Fourth day, <hi>ſi pituita,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayes he, <hi>in Stomacho coiit, inclinata jam ac<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſione, vomere cogendus eſt,</hi> and afterwards, <hi>Cum vero in ſummo incremento morbus eſt, u<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lique non ante diem quartum, magna ſiti ante<g ref="char:EOLhyphen"/>cedente,
+<pb n="10" facs="tcp:105737:6"/>frigida aqua copioſe preſtanda eſt, u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>bibat etiam ultra ſatietatem; &amp; cum jam ven<g ref="char:EOLhyphen"/>ter &amp; precordia ultra modum repleta, ſatiſqu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> refrigerata ſunt, vomere debet.</hi> Take notice here that <hi>Celſus</hi> uſeth the word <hi>Acceſſio</hi> in a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> continued Fever, which ſolves the Objecti<g ref="char:EOLhyphen"/>on the Anſwerer has to <hi>Fernel</hi>'s Authori<g ref="char:EOLhyphen"/>ty. The Dr. had told in his Diſcourſe, that <hi>Celſus</hi> uſed ſuch Vomits as the Anſwerer ſets down, and gives the Reaſons of it, which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> need not repeat.</p>
+            <p>What he objects againſt the Quotations of <hi>Fernel</hi> and <hi>Plater,</hi> I ſhall briefly diſcuſs. He ſays <hi>Fernel</hi> ſpeaks in that firſt Citation the Dr. adduceth, only of intermitting Fe<g ref="char:EOLhyphen"/>vers; on the contnaty he is treating of all theſe which are attended with redundancy of Choler and other Humours, which all of 'em have ſenſible remiſſions and Exacerbations, which is what he means by the <hi>Acceſſiones,</hi> and ſuch are almoſt all the Fevers we com<g ref="char:EOLhyphen"/>monly have among us. He hath nothing to ſay to the other Quotation, but that <hi>Fernel</hi> ſpeaks there only of Purgatives, which the Dr. brought as an Argument <hi>a Majori;</hi> for he had told before, That <hi>the Ancients uſed theſe, becauſe they knew no effectual Vomits which were ſafe, but uſed Purgatives, not<g ref="char:EOLhyphen"/>withſtanding of the vaſt Commotion they make in the whole Juices of the Body beyond Vomi<g ref="char:EOLhyphen"/>tive
+<pb n="11" facs="tcp:105737:6" rendition="simple:additions"/>and Laxative Medicines, ſuch was the force of the Indication.</hi> That <hi>Plater</hi> uſed on<g ref="char:EOLhyphen"/>ly theſe Vomits, the Anſwere ſpeaks of, is no wonder, ſeeing he knew no other; but to be obſtinatly addicted to ſuch now after the diſcovery of the many Excellent and ſafe Preparations of <hi>Antimony,</hi> is truely to be ſuch a one as the Anſwerer ſpeaks of, <hi>whom Experience is never to make Wiſer.</hi>
+            </p>
+            <p>
+               <hi>Etmuller</hi> by his own Confeſſion approves of <hi>Antimonial</hi> Vomits in all Fevers, and ad<g ref="char:EOLhyphen"/>heres to <hi>Sydenham.</hi> Now, to let you ſee it was not from him he had it, but from his Maſter <hi>Johannes Nichael,</hi> whoſe Practice he ſtrictly followed, <hi>Preceptoris ſui ſcripta</hi> (ſpeaking of <hi>Etmuller</hi>) <hi>in adornanda praxi pro norma fere atque Cynoſura habuit, ſucceſſu certe feliciſimo,</hi> ſays the Prefacer to <hi>Michael</hi>'s Works. In which <hi>Cap.</hi> 3. <hi>De febribus Patridis in genere.</hi> He ſays, <hi>Vomitoria optima ſunt ex Antimonio: Nam Antimoniatis radicitus hoe febres extingui Poſ<g ref="char:EOLhyphen"/>ſunt,</hi> and quots <hi>Hartman,</hi> whoſe practice hath been very much eſteemed, and who <hi>Cap.</hi> CCXXXV. ſpeaking of two Prepara<g ref="char:EOLhyphen"/>tions of <hi>Antimony,</hi> whereof the one is for Vo<g ref="char:EOLhyphen"/>miting, and the other for Purging, adds <hi>Utervis autem pulvis, juſta doſi exhibitus, me<g ref="char:EOLhyphen"/>detur febribus tam intermittentibus quam con<g ref="char:EOLhyphen"/>tinuis.</hi>
+            </p>
+            <pb n="12" facs="tcp:105737:7"/>
+            <p>
+               <hi>Willis</hi> he ownes gave Vomits in Fever but not after the fourth Day, I know n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what way he can prove this, ſeing <hi>Willis</hi> far from ſaying any ſuch thing. It's true, that Obſervation the Dr. mentions, the V<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mit is given the fourth Day, but that do not ſay, but he might have given it later the Indication had continued. But here ta<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> notice, that the Anſwerer ſpeaks not o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Word of that Vomit Quoted by the Dr, whi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Willis</hi> gives to a Slender Weakly Woma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which is the preciſe Quantity of <hi>Emeti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Wine</hi> the Dr. gave, becauſe it was to ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> both <hi>Willis</hi> and <hi>Sydenham</hi> guilty of giving Quadruple Doſe. And here it is lucky for th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Anſwerer his Patients are not much acquain<g ref="char:EOLunhyphen"/>ted with the Doſes of Medicines, otherwi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they might eaſily underſtand what good the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were to expect from one who is not aſhame<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to owne that two Drachms of <hi>Emetick Wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> is a ſufficient Doſe for any thing above fiv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Years of Age. The Dr. indeed added to h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a very ſmall Quantity of a Gentle Purgativ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by which he deſigned chiefly to make th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Operation of the Vomit both Eaſie and Saf<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and that this is not only his, but the Practic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the beſt Phyſicians, he gives the Autho<g ref="char:EOLunhyphen"/>rity of Dr. <hi>Tournefort</hi> in the forementione <hi>Preface,</hi> where ſpeaking of what the Brea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Organs of Reſpiration ſuffer in the tit
+<pb n="13" facs="tcp:105737:7"/>Vomiting, goes on, <hi>C'eſt pour cela que les <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s habiles Medicins ſe ſont aviſez ſagement <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>meſler en pluſieurs rencontres les Emetiques <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ec les Purgatifs, pour eviter une partie de vio<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tes Secouſſes que donnent les Emetiques, et pour terminer les matieres a ſortir par les deux <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uts.</hi> It is for that Reaſon, ſays he, that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e moſt Skilful Phyſicians, have wiſely jud<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d it convenient in many Caſes, to mix <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>omitive and Purgative Medicines together, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t ſo they might prevent a part of the vi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent Concuſſions which Vomits occaſion, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d to make the Humors come forth as well <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>wnward as upward.</p>
+            <p>The Authority of <hi>Sylvius</hi> is too particular be well Anſwered, therefore he paſſeth over, by telling that <hi>Sylvius</hi> ſpeaks only Fevers in general. Whereas he ſays pat<g ref="char:EOLhyphen"/>to the Matter in Hand, <hi>In Fevers, when <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Gall works up, and is too plentiful, Vomi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>g and Purging by Stool are chiefly conducible,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d afterwards poſitively prefers <hi>Antimonial <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mits</hi> to all other.</p>
+            <p>I am now ſafely come to Dr. <hi>Sydenham,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d if he don't make the Charge good, I ſhall content both the Dr. and I quite the Field. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Anſwerer pretends, That theſe conti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed Fevers Dr. <hi>Sydenham</hi> treats of, which <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ged four Years together, <hi>viz.</hi> 61.62.64. and were accompanyed with an In<g ref="char:EOLhyphen"/>clination
+<pb n="14" facs="tcp:105737:8"/>to Vomit, were ſucceſsfully Cure by Vomiting, but in the Fevers which fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lowed in the 65, tho attended with the ſam<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Symptoms, that Vomits had the contrar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Effect. Now to confute this, I ſhall onl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> adduce <hi>Sydenham</hi>'s own Words, whereby <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall plainly appear, that what he had ſaid <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Vomiting in that Quotation, he deſign'd fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a General Method in moſt of their Fevers which, as the Dr. had taken notice of, wer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſame preciſely we uſually have amongſt u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> That Fever which broke out in the 65 an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 66 the Anſwerer ſpeaks of, was truly th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Plague, and is by <hi>Sydenham</hi> called <hi>Febr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Peſtilentialis &amp; Peſtis,</hi> and was quite diffe<g ref="char:EOLunhyphen"/>rent from theſe ordinary continued Fever he had obſerved before, and becauſe Vomi<g ref="char:EOLunhyphen"/>ting had not the ſame Succeſs in that, as i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the preceeding Fevers, he concluded it to be of an extraordinary kind. I ſhall ad<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his own Words. After he tells he ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> given a Vomit to a Lady ſeized with one <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> theſe Peſtilential Fevers, he adds, <hi>Pag. n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 95. <hi>Poſtero mane, cum aegram iterum adirem ei alvum profluere intelligo, quae res, ab al<g ref="char:EOLunhyphen"/>quot annorum uſu inſolentior viſa, mihi non l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>vem ſollicitudinem injecit. Exinde autem Febre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> non vulgaris generis eſſe judicavi (quemadm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dum etiam eventus docuit) Proindeque aliam a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ea, quae ſuperius tradita eſt, quaeque conſtanti ſu<g ref="char:EOLunhyphen"/>ceſſus
+<pb n="15" facs="tcp:105737:8"/>ſerie hactenus a me uſurpata fuiſſet, meden<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>li rationem ſibi vindicare.</hi> Next Day, ſays he, when I Viſited my Patient, I underſtood ſhe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d a Looſeneſs, which, by the Experience of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eral Years, ſeemed ſomewhat Unuſual, and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>de me not a little Anxious. But from <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t I concluded, it was not a Fever of an <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dinary kind (which I was alſo taught by <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Event) And therefore, that it required <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>other Method of Cure different from what have given before, and which, by a con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ant Tract of Experience, I had found ſuc<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſsful. From which it is plain to a Demon<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ation, That he had laid down that Method Vomiting, as a General Rule in the Cure the moſt uſual Fevers. And for his uſing <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gatives afterwards, that he alſo did on <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Account of a New Fever, he had never before obſerved, as the Title of that <hi>Schedule</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hows, which he calls <hi>Schedula Monitoria de Novae Febris Ingreſſu,</hi> and in the very begin<g ref="char:EOLhyphen"/>ning tells the Occaſion of his Writing that <hi>Schedule. Populare ſcilicet meos admonens,</hi> ſays he, <hi>de ſubingreſſu Novae cujuſdam Conſti<g ref="char:EOLhyphen"/>tutionis, a qua pendet Febris Nova Species a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uper graſſantibus multum abludens.</hi> It was to advertiſe his Countreymen, of the coming <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of a certain New Conſtitution, from which <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d depend a New Sort of Fever, very far <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ifferent from theſe which raged formerly.
+<pb n="16" facs="tcp:105737:9"/>And in Effect, that Fever was a Sort of <hi>Pe<g ref="char:EOLunhyphen"/>ripneumonia Notha,</hi> as is evident from the <hi>Schedule.</hi>
+            </p>
+            <p>But laſt of all, the Anſwerer enters into a Confederacy with his ſworn enemies, the Mathematicks to defeat the Dr. and fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that makes uſe of Dr. <hi>P</hi>'s Diſſertation of the Cure of Fevers by evacuation, wherein tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gentleman, after comparing the Cutaneou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Perſpiration or ſweating with the other E<g ref="char:EOLhyphen"/>vacuations, concludes, That if the Morbi<g ref="char:EOLhyphen"/>ſick matter to be evacuated be actually mix<g ref="char:EOLhyphen"/>ed with the Blood, and circulating in the Blood-Veſſels, it will be Ten times ſoone<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> done by Sweating than Purging: Whereas Dr. <hi>O.</hi> is ſuppoſing a great deal of the Few<g ref="char:EOLhyphen"/>el of the Fever ſtagnating in the Cavity o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Stomach and Inteſtines, and of the Uſe<g ref="char:EOLhyphen"/>fulneſs of Evacuating that timeouſly by Vo<g ref="char:EOLhyphen"/>miting, which otherwiſe would mix with the Blood, and put us to the neceſſity o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Diaphoreticks to do our beſt to ſave the Pa<g ref="char:EOLhyphen"/>tient's life: But that Diſſertation it ſeems h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> underſtands as well as the other of Dr. <hi>P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Writings.</p>
+            <p>He Anſwers nothing to that Quotation the Dr. brings from Dr. <hi>Tournfort</hi> to prov<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that the <hi>French</hi> Phyſicians had changed thei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> old way of treating Fevers, for that of g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing <hi>Antimony,</hi> and other the moſt violen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="17" facs="tcp:105737:9"/>vacuating Medicines we know. I ſhall on<g ref="char:EOLhyphen"/>ly add, That to my certain Knowledge, it is ſo far the Practice in <hi>England</hi> of their beſt Phyſicians, that they are not contented to give <hi>Antimony</hi> Infuſion, ſuch as is the <hi>E<g ref="char:EOLhyphen"/>metick Wine,</hi> but give the <hi>Emetick Tartar,</hi> which is <hi>Antimony</hi> in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ubſtance, and which operats a great deal more violently, and that on any day of the Fever, if the Indication continues. And I have frequently heard the Dr. tell, That when he was at <hi>Oxford,</hi> he knew ſome of the moſt famous Phyſicians there give ſtrong Vomits towards the very laſt period of the Fever, to wit, when the Lethargick, and <hi>Comatous Symptoms</hi> were look't on as the Immediat Fore-runners of Death, and that ſometimes with ſurpriſing Succeſs.</p>
+            <p>I ſhall conclude with this, That I'm ſorry the Dr. ſhould have been ſo unluckily engag<g ref="char:EOLhyphen"/>ed to enter the Liſts with one wrho had no<g ref="char:EOLhyphen"/>thing to oppone to his plain Reaſons, and irrefragable Authorities, but malicious Ca<g ref="char:EOLhyphen"/>lumnies, and Ungentlemanny Scolding, ſa<g ref="char:EOLhyphen"/>vouring altogether of the Lee of the People and mean Education; which he thought as far beneath him to Anſwer, as to retort. I <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m.</p>
+            <closer>
+               <signed>Sir, Yours, <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
